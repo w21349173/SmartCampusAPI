@@ -1,0 +1,12 @@
+com\mycompany\smartcampusapi\SensorReading.class
+com\mycompany\smartcampusapi\DataStore.class
+com\mycompany\smartcampusapi\Room.class
+com\mycompany\smartcampusapi\SensorReadingResource.class
+com\mycompany\smartcampusapi\LinkedResourceNotFoundException.class
+com\mycompany\smartcampusapi\SensorResource.class
+com\mycompany\smartcampusapi\Main.class
+com\mycompany\smartcampusapi\SensorUnavailableException.class
+com\mycompany\smartcampusapi\DiscoveryResource.class
+com\mycompany\smartcampusapi\RoomNotEmptyException.class
+com\mycompany\smartcampusapi\Sensor.class
+com\mycompany\smartcampusapi\RoomResource.class
